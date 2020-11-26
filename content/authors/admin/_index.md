@@ -6,7 +6,7 @@ title: Tianle LI
 superuser: true
 
 # Role/position
-role: Final year undergraduate student
+role: Final Year Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Natural Language Processing, Data Mining and Statistical Machine Learning. Currently, I am working with Professor YI YANG on adversarial NLP project. And I am also supervised by Professor Raymond Wong working on my final year project about Fake News Detection on Social Network. With the ambition of making contribution to the NLP community, I aim to build a robust and efficient NLP system to tackle with the issues of biasness and unfairness in our society.
+
+bio: My research interests include Natural Language Processing, Data Mining and Statistical Machine Learning. 
 
 interests:
 - Natural Language Processing (Biasness, Fairness, Robustness)
@@ -39,9 +40,9 @@ social:
   link: https://github.com/ltl3A87
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+#- icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tliax@connect.ust.hk"
