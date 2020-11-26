@@ -6,7 +6,7 @@ title: Tianle LI
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Final year undergraduate student
 
 # Organizations/Affiliations
 organizations:
