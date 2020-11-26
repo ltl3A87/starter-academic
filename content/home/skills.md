@@ -24,7 +24,7 @@ subtitle = ""
   icon = "keyboard"
   icon_pack = "fas"
   name = "Other Programming Language"
-  description = "C++, JAVA, SQL, etc."  
+  description = "C++, JAVA, SQL, MATLAB, etc."  
   
 #[[feature]]
 #  icon = "camera-retro"
