@@ -14,24 +14,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Natural Language Processing, Data Mining and Statistical Machine Learning.
+bio: My research interests include Natural Language Processing, Data Mining and Statistical Machine Learning. Currently, I am working with Professor YI YANG on adversarial NLP project. And I am also supervised by Professor Raymond Wong working on my final year project about Fake News Detection on Social Network. With the ambition of making contribution to the NLP community, I aim to build a robust and efficient NLP system to tackle with the issues of biasness and unfairness in our society.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Natural Language Processing (Biasness, Fairness, Robustness)
+- Scoial Network Mining
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Data Science and Technology (DSCT)
+    institution: The Hong Kong University of Science and Technology
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "tliax@connect.ust.hk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
