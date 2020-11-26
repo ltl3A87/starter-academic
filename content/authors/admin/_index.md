@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tianle LI
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,11 +10,11 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Hong Kong University of Science and Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Natural Language Processing, Data Mining and Statistical Machine Learning.
 
 interests:
 - Artificial Intelligence
