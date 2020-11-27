@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Model algorithm design.
   * Data collection & Experiment.
   * Final paper draft.
+  This work has been submitted to a conference and is at the status of under review.
   """
 
 [[experience]]
