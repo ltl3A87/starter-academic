@@ -40,6 +40,15 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2019-06-14"
   date_end = "2016-08-02"
-  description = """Utilize cross-chain blockchain technology and recurrent neural net network to buid a cryptocurrency exchange system ."""
+  description = """Under the supervision from Abel Ze, Yang, we utilized cross-chain blockchain technology and recurrent neural net network to buid a cryptocurrency exchange rate prediction system, which obtained recognition from our department head James Zhibin, Lei."""
+  
+ [[experience]]
+  title = "Undergraduate Research Project"
+  company = "HKUST"
+  company_url = ""
+  location = "Hong Kong"
+  date_start = "2019-02-14"
+  date_end = "2019-08-10"
+  description = """Under the supervision from Prof. Jian-Feng, Cai, I exploited accelerated alternating projections for robust PCA and low-rank Hankel matrix completion to efficiently decompose a Hankel matrix into a low-rank Hankel matrix and a noisy sparse matrix with MATLAB. After the design of the algorithm, I conducted experiments with real data from stock market which leads to 2% improvement on price prediction accuracy."""
 
 +++
