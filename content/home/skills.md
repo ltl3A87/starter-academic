@@ -26,11 +26,11 @@ subtitle = ""
   name = "Other Programming Language"
   description = "C++, JAVA, SQL, MATLAB, etc."  
   
-#[[feature]]
-#  icon = "camera-retro"
-#  icon_pack = "fas"
-#  name = "Photography"
-#  description = "10%"
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Cloud Platform"
+  description = "AWS, GCP%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
