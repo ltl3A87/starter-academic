@@ -30,7 +30,7 @@ subtitle = ""
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Cloud Platform"
-  description = "AWS, GCP%"
+  description = "AWS, GCP"
 
 # Uncomment to use emoji icons.
 # [[feature]]
