@@ -42,7 +42,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
    icon_pack: fab
-   link: cv.pdf
+   link: https://drive.google.com/file/d/19r4_r7eadm-WgYY4aX_2088JXTUAyHL5/view?usp=sharing
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tliax@connect.ust.hk"
 
