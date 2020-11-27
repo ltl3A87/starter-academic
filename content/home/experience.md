@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2020-08-03"
   date_end = ""
-  description = """Under the supervision from Professor Raymon, Wong, we devise a modified version of heterogeneous graph neural network to fuse context-based method and social-content based method for predict whether a post from Twitter or Weibo is fake. We plan to involve knowledge draph and more advanced encoding like Big Bird in the future."""
+  description = """Under the supervision from Professor Raymon, Wong, we devise a modified version of heterogeneous graph neural network to fuse context-based method and social-content based method to predict whether a post from Twitter or Weibo is fake. We plan to involve knowledge draph and more advanced encoding like Big Bird in the future."""
   
 [[experience]]
   title = "Junior Research Assistant"
