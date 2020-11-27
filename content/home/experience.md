@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Final Year Project: Fake News Detection on Social Networks"
+  company = "HKUST"
+  company_url = ""
+  location = "Hong Kong"
+  date_start = "2020-08-03"
+  date_end = ""
+  description = """Under the supervision from Professor Raymon, Wong, we devise a modified version of heterogeneous graph neural network to fuse context-based method and social-content based method for predict whether a post from Twitter or Weibo is fake. We plan to involve knowledge draph and more advanced encoding like Big Bird in the future."""
+  
 [[experience]]
   title = "Junior Research Assistant"
   company = "HKUST"
@@ -31,6 +41,7 @@ date_format = "Jan 2006"
   * Model algorithm design.
   * Data collection & Experiment.
   * Final paper draft.
+  
   This work has been submitted to a conference and is at the status of under review.
   """
 
