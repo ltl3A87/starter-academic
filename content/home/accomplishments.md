@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   # certificate_url = ""
   date_start = "2020-01-13"
   date_end = "2020-01-17"
-  description = """I worked with group mates and implemented person portrait matting algorithm based on UNet-structure network, based on which we built style transfer system on matting person portrait images with utilization of ResNet and CycleGAN to transfer images from realistic style to Simpsons style on GCP."""
+  description = """I worked in a team and implemented a person portrait matting algorithm based on UNet-structure network. We further built a style transfer system on matting person portrait images with utilization of ResNet and CycleGAN to transfer images from realistic style to Simpsons style on GCP."""
 
 [[item]]
   organization = "CSL Data Analytics Case Competition"
@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   # certificate_url = "https://www.datacamp.com"
   date_start = "2019-10-18"
   # date_end = "2017-12-21"
-  description = """I Led a team to build a management system for Premiere Performances, which is a NGO to implemente search function, nodes graph visualization, engagement and likeness of clients in the database. And we Won the bid from Premiere Performances with recognition of managers from J.P. Morgan."""
+  description = """I led a team to build a management system for Premiere Performances, which is a NGO, to implemente search function, nodes graph visualization, engagement and likeness of clients in the database. And we won the bid from Premiere Performances with recognition of managers from J.P. Morgan."""
 
 +++
