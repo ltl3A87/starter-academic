@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   company_url = "https://www.astri.org/"
   location = "Hong Kong"
   date_start = "2019-06-14"
-  date_end = "2016-08-02"
+  date_end = "2019-08-02"
   description = """Under the supervision from Abel Ze, Yang, we utilized cross-chain blockchain technology and recurrent neural net network to build a cryptocurrency exchange rate prediction system, which obtained recognition from our department head James Zhibin, Lei."""
   
  [[experience]]
