@@ -18,7 +18,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Tensorflow, Pytorch, Pandas, etc."
+  description = "Tensorflow, Pytorch, Pandas, Spacy, etc."
   
 [[feature]]
   icon = "keyboard"
