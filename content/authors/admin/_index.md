@@ -15,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: My research interests include Natural Language Processing, Data Mining and Statistical Machine Learning. 
+bio: My research interests include Natural Language Processing, Graph, Data Mining and Statistical Machine Learning. 
 
 interests:
 - Natural Language Processing (Biasness, Fairness, Robustness)
@@ -56,4 +56,4 @@ user_groups:
 - Visitors
 ---
 
-My research interests include Natural Language Processing, Data Mining and Statistical Machine Learning. Currently, I am working with Professor YI YANG on adversarial NLP project. And I am also supervised by Professor Raymond Wong working on my final year project about Fake News Detection on Social Network. With the ambition of making contribution to the NLP community, I aim to build a robust and efficient NLP system to tackle with the issues of biasness and unfairness in our society.
+My research interests include Natural Language Processing, Graph Neural Network, Data Mining and Statistical Machine Learning. Currently, I am working with Mengyu Zhou on table parsing project. And I am also supervised by Professor Raymond Wong working on my final year project about Fake News Detection on Social Network. With the ambition of making contribution to the NLP community, I aim to build a robust and efficient NLP system to tackle with the issues of biasness and unfairness in our society.
