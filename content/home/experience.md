@@ -21,11 +21,16 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Intern"
   company = "Microsoft Research Lab - Asia"
-  company_url = ""
+  company_url = "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
   location = "Beijing, China"
   date_start = "2021-02-23"
   date_end = ""
-  description = """Design and implement the advanced algorithm for key phrases extraction."""
+  description = """ Supervised by senior researcher Mengyu Zhou
+  * Design and implement the advanced algorithm for key phrases extraction. (This work will be deployed in Forms, Teams)
+  * Table Conditional Formatting Recommendation (table semantic interpretation, representation, recommendation)
+  
+  We are going to submit a paper to CIKM for the second work in May. 
+  """
   
 [[experience]]
   title = "Final Year Project: Fake News Detection on Social Networks"
@@ -34,7 +39,10 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2020-08-03"
   date_end = ""
-  description = """Under the supervision from Professor Raymond, Wong, we devise a modified version of heterogeneous graph neural network to fuse context-based method and social-content based method to predict whether a post from Twitter or Weibo is fake. We plan to involve knowledge graph and more advanced encoding like Big Bird in the future."""
+  description = """Under the supervision from Professor Raymond, Wong, we propose two movel models: HetGCN and HetGNN-att based on heterogeneous graph neural network to fuse context-based method and social-content based method to predict whether a post from Twitter or Weibo is fake or not. Our models improve the performance on this task by approximately 4% compared to the previous baselines. And we want to further boost the explainability of our model to make everyone understand the apparent patterns of fakenews on social network.
+  
+  We are going to submit a paper to ICDM in June.
+  """
   
 [[experience]]
   title = "Junior Research Assistant"
@@ -51,7 +59,7 @@ date_format = "Jan 2006"
   * Data collection & Experiment.
   * Final paper draft.
   
-  This work has been submitted to a conference and is at the status of under review.
+  This work will be submitted to EMNLP in May.
   """
 
 [[experience]]
