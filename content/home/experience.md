@@ -24,12 +24,12 @@ date_format = "Jan 2006"
   company_url = "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
   location = "Beijing, China"
   date_start = "2021-02-23"
-  date_end = ""
+  date_end = "2021-08-31"
   description = """ Supervised by senior researcher Mengyu Zhou
-  * Design and implement the advanced algorithm for key phrases extraction. (This work will be deployed in Forms, Teams)
-  * Table Conditional Formatting Recommendation (table semantic interpretation, representation, recommendation)
+  * Design and implement the advanced algorithm for key phrases extraction. (This work has been deployed in Forms, Teams as Word cloud insight to provide a visualization of responses for text questions. It recieved very positive feedbacks from the customers!)
+  * Learning Analysis Semantics over Tabular Data via Conditional Formatting as Proxy. In this research project, we proposed a sophiscated method to encode the table context with good comprehension to numerical tabular data, which can select condition type, formatting type and critical values to automatically recommend conditional formatting visualization for human beings.  
   
-  We are going to submit a paper to CIKM for the second work in May. 
+  We have submitted a paper to SIGMOD for the second work in July. 
   """
   
 [[experience]]
@@ -38,10 +38,11 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hong Kong"
   date_start = "2020-08-03"
-  date_end = ""
-  description = """Under the supervision from Professor Raymond, Wong, we propose two novel models: HetGCN and HetGNN-att based on heterogeneous graph neural network to fuse context-based method and social-content based method to predict whether a post from Twitter or Weibo is fake or not. Our models improve the performance on fake news detection task by approximately 4% compared to the previous baselines. And we want to further boost the explainability of our model to make everyone understand the apparent patterns of fakenews on social network.
+  date_end = "2021-06-11"
+  description = """Under the supervision from Professor Raymond, Wong, we propose a novel Transformer-based model: HetTransformer to solve the fake news detection problem on social networks, which utilizes the encoder-decoder structure of Transformer to capture the structural information of news propagation patterns. We first capture the local heterogeneous semantics of news, post, and user entities in social networks. Then, we apply Transformer to capture the global structural
+representation of the propagation patterns in social networks for fake news detection. Experiments on three real-world datasets demonstrate that our model is able to outperform the state-of-the-art baselines in fake news detection.
   
-  We are going to submit a paper to ICDM in June.
+  We have submitted a paper to ICDM in June.
   """
   
 [[experience]]
@@ -59,7 +60,7 @@ date_format = "Jan 2006"
   * Data collection & Experiment.
   * Final paper draft.
   
-  This work will be submitted to EMNLP in May.
+  This work has been submitted to EMNLP in May.
   """
 
 [[experience]]
