@@ -56,4 +56,4 @@ user_groups:
 - Visitors
 ---
 
-My research interests include Natural Language Processing, Graph Neural Network, Data Mining and Multi-module Processing. Currently, I am working with Mengyu Zhou on table understanding project. With the ambition of making contribution to the NLP community, I aim to build a robust and efficient NLP system to tackle with the issues of biasness and unfairness in our society.
+My research interests include Natural Language Processing, Graph Neural Network, Data Mining and Multi-module Processing. Currently, I am working with Mengyu Zhou on table understanding especially for numerical reasoning with pretrained model. With the ambition of making contribution to the NLP community, I aim to build a robust and efficient NLP system to tackle with the issues of biasness and unfairness in our society.
