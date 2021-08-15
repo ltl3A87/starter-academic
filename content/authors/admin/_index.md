@@ -18,7 +18,7 @@ organizations:
 bio: My research interests include Natural Language Processing, Graph, Data Mining and Statistical Machine Learning. 
 
 interests:
-- Natural Language Processing (Biasness, Fairness, Robustness)
+- Natural Language Processing (Biasness, Understanding, Robustness)
 - Scoial Network Mining
 
 education:
@@ -42,7 +42,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/19r4_r7eadm-WgYY4aX_2088JXTUAyHL5/view?usp=sharing
+  link: https://drive.google.com/file/d/1yhXv3XpykjK_-PbaCjxYjRDendtzGV3i/view?usp=sharing
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tliax@connect.ust.hk"
 
@@ -56,4 +56,4 @@ user_groups:
 - Visitors
 ---
 
-My research interests include Natural Language Processing, Graph Neural Network, Data Mining and Statistical Machine Learning. Currently, I am working with Mengyu Zhou on table parsing project. And I am also supervised by Professor Raymond Wong working on my final year project about Fake News Detection on Social Network. With the ambition of making contribution to the NLP community, I aim to build a robust and efficient NLP system to tackle with the issues of biasness and unfairness in our society.
+My research interests include Natural Language Processing, Graph Neural Network, Data Mining and Multi-module Processing. Currently, I am working with Mengyu Zhou on table understanding project. With the ambition of making contribution to the NLP community, I aim to build a robust and efficient NLP system to tackle with the issues of biasness and unfairness in our society.
