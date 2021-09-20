@@ -24,12 +24,12 @@ date_format = "Jan 2006"
   company_url = "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
   location = "Beijing, China"
   date_start = "2021-02-23"
-  date_end = "2021-08-31"
+  date_end = "2021-09-15"
   description = """ Supervised by senior researcher Mengyu Zhou
   * Design and implement the advanced algorithm for key phrases extraction. (This work has been deployed in Forms, Teams as Word cloud insight to provide a visualization of responses for text questions. It recieved very positive feedbacks from the customers!)
   * Learning Analysis Semantics over Tabular Data via Conditional Formatting as Proxy. In this research project, we proposed a sophiscated method to encode the table context with good comprehension to numerical tabular data, which can select condition type, formatting type and critical values to automatically recommend conditional formatting visualization for human beings.  
   
-  We have submitted a paper to SIGMOD for the second work in July. 
+  We will submit a paper to VLDB in November. 
   """
   
 [[experience]]
@@ -37,12 +37,11 @@ date_format = "Jan 2006"
   company = "HKUST"
   company_url = ""
   location = "Hong Kong"
-  date_start = "2020-08-03"
-  date_end = "2021-06-11"
-  description = """Under the supervision from Professor Raymond, Wong, we propose a novel Transformer-based model: HetTransformer to solve the fake news detection problem on social networks, which utilizes the encoder-decoder structure of Transformer to capture the structural information of news propagation patterns. We first capture the local heterogeneous semantics of news, post, and user entities in social networks. Then, we apply Transformer to capture the global structural
-representation of the propagation patterns in social networks for fake news detection. Experiments on three real-world datasets demonstrate that our model is able to outperform the state-of-the-art baselines in fake news detection.
+  date_start = "2020-09-03"
+  date_end = "2021-09-11"
+  description = """Under the supervision from Professor Raymond, Wong, we propose a novel Transformer-based model: HetTransformer to solve the fake news detection problem on social networks, which utilizes the structure-aware Transformer and temperal embedding to capture the news propagation patterns in social media. Experiments on three real-world datasets demonstrate that our model is able to outperform the state-of-the-art baselines in fake news detection.
   
-  We have submitted a paper to ICDM in June.
+  We will submit a paper to WWW in October.
   """
   
 [[experience]]
@@ -52,7 +51,7 @@ representation of the propagation patterns in social networks for fake news dete
   location = "Hong Kong"
   date_start = "2020-06-03"
   date_end = "2020-08-31"
-  description = """We aim at generating adversarial examples in text to attack pretrained BERT model in black box setting under budget constraint (merely query much less number of times towards target model with the same level of success rate and perturbation rate). We employ all the intermediate failure and successful queries to learn words salience rank globally.
+  description = """We aim at generating adversarial examples in text to attack pretrained BERT model in black box setting under budget constraint (merely query much less number of times towards target model with the same level of success rate and perturbation rate). We employ all the intermediate failure and successful queries to learn words salience rank globally and locally.
   Responsibilities include:
   
   * Research topic proposal.
