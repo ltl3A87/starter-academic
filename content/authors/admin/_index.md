@@ -6,26 +6,30 @@ title: Tianle LI
 superuser: true
 
 # Role/position
-role: Final Year Undergraduate Student
+role: First Year Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: Hong Kong University of Science and Technology
+- name: University of Waterloo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: My research interests include Natural Language Processing, Graph, Data Mining and Statistical Machine Learning. 
+bio: My research interests include Image Editing, Natural Language Processing, and Multimodular Learning. 
 
 interests:
 - Natural Language Processing (Biasness, Understanding, Robustness)
+- Computer Vision (Image Editing/Generation Conditioned on Text)
 - Scoial Network Mining
 
 education:
   courses:
+  - course: Computer Science - MMath
+    institution: University of Waterloo
+    year: 2022
   - course: BSc in Data Science and Technology (DSCT)
     institution: The Hong Kong University of Science and Technology
-    year: 2017
+    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -56,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-My research interests include Natural Language Processing, Graph Neural Network, Data Mining and Multi-module Processing. Currently, I am working with Mengyu Zhou on table understanding especially for numerical reasoning with pretrained model. With the ambition of making contribution to the NLP community, I aim to build a robust and efficient NLP system to tackle with the issues of biasness and unfairness in our society.
+My research interests include Natural Language Processing and Image Editing conditioned on text. Currently, I am a thesis-based CS master student in University of Waterloo supervised by Prof. Wenhu Chen. Collaborating with GPT-series and diffusion-based models, we are exploring the potentials of the popular large language and vision models in various tasks, designing efficient algorithm on existed or novel problem setting. Ultimately, I hope we can realize more controllable generation, grounding on truth or human intention.
