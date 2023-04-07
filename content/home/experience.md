@@ -62,7 +62,6 @@ date_format = "Jan 2006"
   date_start = "2020-06-03"
   date_end = "2020-08-31"
   description = """We aim at generating adversarial examples in text to attack pretrained BERT model in black box setting under budget constraint (merely query much less number of times towards target model with the same level of success rate and perturbation rate). We employ all the intermediate failure and successful queries to learn words salience rank globally and locally.
-  Responsibilities include:
 
   """
 
