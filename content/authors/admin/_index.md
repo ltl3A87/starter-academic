@@ -48,7 +48,7 @@ social:
   icon_pack: ai
   link: https://drive.google.com/file/d/1yhXv3XpykjK_-PbaCjxYjRDendtzGV3i/view?usp=sharing
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "tliax@connect.ust.hk"
+email: "t29li@uwaterloo.ca"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
